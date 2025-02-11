@@ -1,0 +1,7 @@
+tkinter
+cryptography>=3.4.7
+pyperclip>=1.8.2
+secrets
+json
+logging
+datetime
